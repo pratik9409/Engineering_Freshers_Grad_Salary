@@ -40,3 +40,5 @@ agreeableness: Scores in one of the sections of AMCAT's personality test <br>
 extraversion: Scores in one of the sections of AMCAT's personality test <br>
 nueroticism: Scores in one of the sections of AMCAT's personality test <br>
 openess_to_experience: Scores in one of the sections of AMCAT's personality test <br>
+
+# The data can be used not only to make an accurate salary predictor but also to understand what influences salary and job titles in the labour market.
